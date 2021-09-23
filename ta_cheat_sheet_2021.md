@@ -57,7 +57,7 @@ Non-TA-responsibilities:
 
 here's an overview of all the tools of the teaching team & of the students and how they relate.
 
-The most important one is **Notion**.
+<!---!The most important one is **Notion**.
 
 <!---![alt text](tool_map_lts.png) -->
 
@@ -69,9 +69,10 @@ Primary tool of communication & source of material (apart from slack)
 * **Additional Ressources**
 * **Katas**
 * **Our Recordings**, lecture Recordings
-* etc. ...
+* etc. ...-->
 
-## 4.1. TA google Email
+
+## 4.0 TA google Email
 
 This is the key to a lot of services and online tools (google drive, Asana, kahoot, ...). Just add it to your browser and use for login when required.
 
@@ -86,7 +87,7 @@ Email received here should be checked regularly. Sometimes students from upcomin
 
 
 
-## 4.2 Campustools
+## 4.1 Campustools
 
 General administration of students an get several information about them. On the left side, click on `Cohorts` and filter by Status `Ongoing` and then click the Data Analytics Full Time RMT class having started at 9 August to pull up info about the current Data class taught by Jan.
 * Login with the (->) TA google account.
@@ -96,7 +97,7 @@ General administration of students an get several information about them. On the
 * Check here if they have completed the **weekly survey** (usually checked by program manager)
 * Grade their work here
 
-## 4.4. github
+## 4.2 github
 
 The class repository is this: https://github.com/student-IH-labs-and-stuff/BEES-DAFT-MAY21
 
@@ -106,7 +107,7 @@ The class repository is this: https://github.com/student-IH-labs-and-stuff/BEES-
 
 * lab solutions must be pushed here usually at the end of the day
 
-## 4.5. CMS (Studio)
+## 4.3 CMS (Studio)
 
 *The following doesn't apply for the 2021-05 BER cohort anymore, since most of the material will be provided to students on Notion! Studio/Campus tools will only be used for students to submit deliverables*
 
@@ -124,7 +125,7 @@ Everything which the students get to see in their Student Portal can be changed 
 * Make use of the predefined tags for certain event categories to make the events better distinguishable by color, such as `[CLASS_ACTIVITY]`, `[TALK]`, `[RITUALS]`, `[PROJECT]`...
 * Please don't alter anything on the actual curriculum content (`[CLASS_ACTIVITY]`, `[LAB]`, Lectures). Changes here are only done by the LT or the education team.
 
-## 4.6. Google drive
+## 4.4 Google drive
 
 Where important course material (for our own course) is stored. All TA's can edit documents here simultaneously
 * Login: With TA google account
@@ -133,7 +134,7 @@ Where important course material (for our own course) is stored. All TA's can edi
 * Within that, the central document: [`Control Panel | DAFT BER 2021-05`](https://docs.google.com/spreadsheets/d/1JJIIaqxnch2td0mjiG68prXsGN_GL6nodtwtRr1Kuy0/edit#gid=515994834) sheet. A lot of documentation about Project grading, 1-on-1's, student progress etc. are collected in there.
 * Sheet [`Frequently Encountered Installation Problems & Solutions - DATA ANALYTICS`](https://docs.google.com/spreadsheets/d/145BD_C1dBB1dIwNM6YkjzDRyXY6mtXYe2ObPhnPg-QU/edit#gid=0): Collection of all common errors, installation problems, etc. when using any Data Analytics Software (SQL, Python, Tableau, etc... ) that occured in the past and their solutions. Please expand, whenever you encountered such a blocker with students and found a solution.
 
-## 4.7. Slack
+## 4.5 Slack
 
 Most of online communication (apart from Zoom) happens here
 
@@ -141,7 +142,7 @@ Most of online communication (apart from Zoom) happens here
 
 Usage: Pretty much self explanatory. Should be known to Alumni-TAs.
 
-## 4.8. Bitbucket
+<!-- ## 4.8. Bitbucket
 
 ~~Find all curriculum material in here (Lectures, activities, Labs, Lab solutions, ...). Works like git.
 
@@ -152,7 +153,7 @@ Usage: Pretty much self explanatory. Should be known to Alumni-TAs.
 * Access: Given to your Ironhack Account by the Learning Designers (Sofía Delponte e.g.)~~
 
 
-<!-- ## 4.9. Notion
+ ## 4.9. Notion
 
 A whole new world presented to you by the education team with teaching material, places to give feedback, notes for meetings etc.
 * Access given by the education team
@@ -161,7 +162,7 @@ A whole new world presented to you by the education team with teaching material,
   * in there, we have a [data bookshelf with literature](https://www.notion.so/Data-Bookshelf-2958f5f7c14f4b3db7546c2902faf89c). Feel free to add more items.
 -->
 
-## 4.10. Zoom
+## 4.6 Zoom
 
 * Students & Teaching staff convene in the main room of the Data (Analytics) classroom for lecture (starting 9am on weekdays)
 
@@ -186,13 +187,13 @@ A whole new world presented to you by the education team with teaching material,
 
 * After every lecture day, Zoom needs a couple of hours "to process" the video until it's available to download within the Admin's (usually the LT) zoom account. The links of that day's zoom videos then need to be put on the student portal as a separate block at the end of the day, so that the students can download/view them. They're not supposed to be shared outside of Ironhack though (due to privacy reasons).
 
--- ## 4.11. Miro board
+-- ## 4.7 Miro board
 
 -- * URL: https://miro.com/app/dashboard/
 -- * Needs to be cleaned before Friday retrospective
 -- * Assist the LT in clustering the sticky notes after the Retro
 
-## 4.12. Kahoot.com
+## 4.8 Kahoot.com
 
 * here chose **not** to login via google, enter credentials manually:
 * login: `ta-dataft-rmt@ironhack.com`,  pw: `HelloName2020-06`
