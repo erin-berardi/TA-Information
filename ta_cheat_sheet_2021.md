@@ -70,7 +70,8 @@ Primary tool of communication & source of material (apart from slack)
 * **Additional Ressources**
 * **Katas**
 * **Our Recordings**, lecture Recordings
-* etc. ...-->
+* etc. ...
+-->
 
 
 ## 4.0 TA google Email
