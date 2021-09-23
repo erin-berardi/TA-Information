@@ -62,6 +62,7 @@ here's an overview of all the tools of the teaching team & of the students and h
 
 <!---![alt text](tool_map_lts.png) -->
 
+<!---!
 ## 4.0 notion
 
 Primary tool of communication & source of material (apart from slack)
