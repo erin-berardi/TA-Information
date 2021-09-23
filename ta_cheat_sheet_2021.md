@@ -1,5 +1,5 @@
 # TA cheat sheet - Ironhack Berlin - Data Analytics Full time
-*by Flo Titze (florian.titze@ironhack.com), last updated 03rd of March, 2021*
+*by Flo Titze (florian.titze@ironhack.com), last updated 03rd of March, 2021.  Updated for use at Amsterdam campus by Erin Berardi (erin.berardi@ironhack.com) August 2021*
 
 Dear future TA of the Data Analytics Bootcamp, this is a cheat sheet for you in order not to get lost in your first days of TA'ing :-)
 
@@ -45,6 +45,7 @@ Non-TA-responsibilities:
 * Keep morale in class high!
 * Follow-up with struggling students.
 * Alert LT to any red flags in class.
+* Introduce and Run labs.
 
 # 3. TA's best practices (when multiple TAs)
 
