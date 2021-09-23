@@ -88,6 +88,8 @@ Email received here should be checked regularly. Sometimes students from upcomin
 
 [Class Google Drive][https://drive.google.com/drive/folders/1RMd2HC-GG7aM6lzXoL_IzUH7YHZK05tD?usp=sharing]
 
+[Control Panel Spreadsheet][https://docs.google.com/spreadsheets/d/1dVwlXcCp73GmCKWGhtt4xF6zZpYTaYR26osvTw2QtlQ/edit?pli=1&hl=en#gid=1246230242]
+
 
 
 ## 4.1 Campustools
