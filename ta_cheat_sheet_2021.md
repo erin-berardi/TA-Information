@@ -190,13 +190,15 @@ A whole new world presented to you by the education team with teaching material,
 
 * After every lecture day, Zoom needs a couple of hours "to process" the video until it's available to download within the Admin's (usually the LT) zoom account. The links of that day's zoom videos then need to be put on the student portal as a separate block at the end of the day, so that the students can download/view them. They're not supposed to be shared outside of Ironhack though (due to privacy reasons).
 
--- ## 4.7 Miro board
+<!---!
+## 4.7 Miro board
 
 -- * URL: https://miro.com/app/dashboard/
 -- * Needs to be cleaned before Friday retrospective
 -- * Assist the LT in clustering the sticky notes after the Retro
+-->
 
-## 4.8 Kahoot.com
+## 4.7 Kahoot.com
 
 * here chose **not** to login via google, enter credentials manually:
 * login: `ta-dataft-rmt@ironhack.com`,  pw: `HelloName2020-06`
