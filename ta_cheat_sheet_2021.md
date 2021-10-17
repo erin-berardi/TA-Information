@@ -88,7 +88,7 @@ Email received here should be checked regularly. Sometimes students from upcomin
 
 [Class Google Drive][https://drive.google.com/drive/folders/1RMd2HC-GG7aM6lzXoL_IzUH7YHZK05tD?usp=sharing]
 
-[Control Panel Spreadsheet][https://docs.google.com/spreadsheets/d/1dVwlXcCp73GmCKWGhtt4xF6zZpYTaYR26osvTw2QtlQ/edit?pli=1&hl=en#gid=1246230242]
+[Control Panel Spreadsheet][https://docs.google.com/spreadsheets/d/1kSNg5q5jRugHVzl1Dlf42tiwBkSEO2DFZZH7H5kADzE/edit#gid=1573757304]
 
 
 
@@ -102,9 +102,9 @@ General administration of students an get several information about them. On the
 * Check here if they have completed the **weekly survey** (usually checked by program manager)
 * Grade their work here
 
-## 4.2 github
+<!---! ## 4.2 github
 
-The class repository is this: https://github.com/student-IH-labs-and-stuff/BEES-DAFT-MAY21
+-- The class repository is this: https://github.com/student-IH-labs-and-stuff/BEES-DAFT-MAY21
 
 * You need to be added as contributor to make changes. Ask the LT.
 
@@ -112,16 +112,16 @@ The class repository is this: https://github.com/student-IH-labs-and-stuff/BEES-
 
 * lab solutions must be pushed here usually at the end of the day
 
-## 4.3 CMS (Studio)
+-->
 
-*The following doesn't apply for the 2021-05 BER cohort anymore, since most of the material will be provided to students on Notion! Studio/Campus tools will only be used for students to submit deliverables*
+## 4.2 CMS (Studio)
 
 Everything which the students get to see in their Student Portal can be changed here.
 * Our current re-run of the course is this: https://studio.ironhack.school/course/course-v1:IRONHACK+DAFT+202105_BER
 
 * Sign in with:
   * Email: `ta-dataft-rmt@ironhack.com`
-  * PW: `ironhack`        (yeah, sorry.)
+  * PW: `RemoteRocks22`        (yeah, sorry.)
 
 * Most often used to insert events (guest talks) & shift around lecture / lab / activity blocks around. Get greenlight from LT  before you make changes here.
 * Click on the Unit (week) and then `+ New Unit` to add a new event to a specific day.
@@ -135,15 +135,15 @@ Everything which the students get to see in their Student Portal can be changed 
 Where important course material (for our own course) is stored. All TA's can edit documents here simultaneously
 * Login: With TA google account
 * All Data `My Drive > Data`
-* ~~Data for current class: (`My Drive > Data > 2020/10/19`)~~
-* Within that, the central document: [`Control Panel | DAFT BER 2021-05`](https://docs.google.com/spreadsheets/d/1JJIIaqxnch2td0mjiG68prXsGN_GL6nodtwtRr1Kuy0/edit#gid=515994834) sheet. A lot of documentation about Project grading, 1-on-1's, student progress etc. are collected in there.
-* Sheet [`Frequently Encountered Installation Problems & Solutions - DATA ANALYTICS`](https://docs.google.com/spreadsheets/d/145BD_C1dBB1dIwNM6YkjzDRyXY6mtXYe2ObPhnPg-QU/edit#gid=0): Collection of all common errors, installation problems, etc. when using any Data Analytics Software (SQL, Python, Tableau, etc... ) that occured in the past and their solutions. Please expand, whenever you encountered such a blocker with students and found a solution.
+* Within that, the central document: [`Control Panel | `](https://docs.google.com/spreadsheets/d/1kSNg5q5jRugHVzl1Dlf42tiwBkSEO2DFZZH7H5kADzE/edit#gid=1044769792) sheet. A lot of documentation about Project grading, 1-on-1's, student progress etc. are collected in there.
+* Sheet [`Frequently Encountered Installation Problems & Solutions - DATA ANALYTICS`](https://docs.google.com/spreadsheets/d/145BD_C1dBB1dIwNM6YkjzDRyXY6mtXYe2ObPhnPg-QU/edit#gid=0): Collection of all common errors, installation problems, etc. when using any Data Analytics Software (SQL, Python, Tableau, etc... ) that occurred in the past and their solutions. Please expand, whenever you encounter such a blocker with students and found a solution.
 
 ## 4.5 Slack
 
 Most of online communication (apart from Zoom) happens here
 
-* our current workspace: [DA-FT-RMT-08-21](daft09augen.slack.com)
+* our current workspace: [DA-FT-18th-Oct]()
+)
 
 Usage: Pretty much self explanatory. Should be known to Alumni-TAs.
 
@@ -173,11 +173,11 @@ A whole new world presented to you by the education team with teaching material,
 
 * **Classroom link**: `https://ironhack.zoom.us/j/96403567276`, **ID**: `877626245`, **pw**: `986565` (share with students and/or pin at the top of the general channel in the Slack workspace)
 
-* **Admin-access** to the Data Analytics zoom account (**don't share with anyone!**): Login `jan.molendijk@ironhack.com`, pw: `IronHack1!`
+* **Admin-access** to the Data Analytics zoom account (**don't share with anyone!**): Login `ta-dataft-rmt@ironhack.com`, pw: `RemoteRocks22`
 
 * **Claiming Host** in the zoom classroom (not possible when someone is already host): Use Host Key: 236158 (never share this outside the teaching team). Important e.g. for creating breakout rooms (BRs) for students when they're doing project work or need to swarm out during activities. Only Host can create BRs. Rule of thumb / courtesy / best practice: Whoever is Host in an active zoom call never goes AFK unless she/he makes someone else host.
 
-* Co-Hosts can be designated by the host. They can assign people to BRs.
+* Co-Hosts can be designated by the host. They can assign people to Breakout Rooms (BRs).
 
 * BRs are at best set up in a way that students can join them on their own.
 
@@ -203,5 +203,5 @@ A whole new world presented to you by the education team with teaching material,
 ## 4.7 Kahoot.com
 
 * here chose **not** to login via google, enter credentials manually:
-* login: `ta-dataft-rmt@ironhack.com`,  pw: `HelloName2020-06`
+* login: `ta-dataft-rmt@ironhack.com`,  pw: `RemoteRocks22`
 * Browse past kahoots. Some may be suitable for your current cohort as well. Or create new kahoots by getting inspired by old ones.
