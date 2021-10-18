@@ -121,7 +121,7 @@ Everything which the students get to see in their Student Portal can be changed 
 
 * Sign in with:
   * Email: `ta-dataft-rmt@ironhack.com`
-  * PW: `RemoteRocks22`        (yeah, sorry.)
+  * PW: `RemoteRocks22`        
 
 * Most often used to insert events (guest talks) & shift around lecture / lab / activity blocks around. Get greenlight from LT  before you make changes here.
 * Click on the Unit (week) and then `+ New Unit` to add a new event to a specific day.
@@ -190,7 +190,7 @@ A whole new world presented to you by the education team with teaching material,
 
 * **Keeping an eye on the recording**: Host & Co-Host can start/stop recording of the lecture (necessary!). If you're Host/Co-Host and see it's not recording, start it, and stop it after lecture.
 
-* After every lecture day, Zoom needs a couple of hours "to process" the video until it's available to download within the Admin's (usually the LT) zoom account. The links of that day's zoom videos then need to be put on the student portal as a separate block at the end of the day, so that the students can download/view them. They're not supposed to be shared outside of Ironhack though (due to privacy reasons).
+* After every lecture day, Zoom needs a couple of hours "to process" the video until it's available to download within the Admin's (usually the LT) zoom account. The links of that day's zoom videos then need to be put on the student portal as a separate block at the end of the day, so that the students can download/view them. They're not supposed to be shared outside of Ironhack though (due to privacy reasons).  The video links are found [here](https://zoom.us/recording/management).  The TA email has admin access.  You need to search under Jan's email (jan.molendijk@ironhack.com).
 
 <!---!
 ## 4.7 Miro board
