@@ -82,7 +82,7 @@ This is the key to a lot of services and online tools (google drive, Asana, kaho
 |||
 |---|---|
 | email | `ta-dataft-rmt@ironhack.com`|
-| password | `RemoteRocks22.` |
+| password | `***********22.` |
 
 Email received here should be checked regularly. Sometimes students from upcoming courses send questions to this Email address. It is not necessary to answer them right away, but within 24hrs would be nice.
 
@@ -121,7 +121,7 @@ Everything which the students get to see in their Student Portal can be changed 
 
 * Sign in with:
   * Email: `ta-dataft-rmt@ironhack.com`
-  * PW: `RemoteRocks22`        
+  * PW: `***********22`        
 
 * Most often used to insert events (guest talks) & shift around lecture / lab / activity blocks around. Get greenlight from LT  before you make changes here.
 * Click on the Unit (week) and then `+ New Unit` to add a new event to a specific day.
@@ -171,9 +171,9 @@ A whole new world presented to you by the education team with teaching material,
 
 * Students & Teaching staff convene in the main room of the Data (Analytics) classroom for lecture (starting 9am on weekdays)
 
-* **Classroom link**: `https://ironhack.zoom.us/j/96403567276`, **ID**: `877626245`, **pw**: `986565` (share with students and/or pin at the top of the general channel in the Slack workspace)
+* **Classroom link**: `https://ironhack.zoom.us/j/96403567276`, **ID**: `` (share with students and/or pin at the top of the general channel in the Slack workspace)
 
-* **Admin-access** to the Data Analytics zoom account (**don't share with anyone!**): Login `ta-dataft-rmt@ironhack.com`, pw: `RemoteRocks22`
+* **Admin-access** to the Data Analytics zoom account (**don't share with anyone!**): Login `ta-dataft-rmt@ironhack.com`, pw: `***********22`
 
 * **Claiming Host** in the zoom classroom (not possible when someone is already host): Use Host Key: 236158 (never share this outside the teaching team). Important e.g. for creating breakout rooms (BRs) for students when they're doing project work or need to swarm out during activities. Only Host can create BRs. Rule of thumb / courtesy / best practice: Whoever is Host in an active zoom call never goes AFK unless she/he makes someone else host.
 
@@ -203,5 +203,5 @@ A whole new world presented to you by the education team with teaching material,
 ## 4.7 Kahoot.com
 
 * here chose **not** to login via google, enter credentials manually:
-* login: `ta-dataft-rmt@ironhack.com`,  pw: `RemoteRocks22`
+* login: `ta-dataft-rmt@ironhack.com`,  pw: `***********22`
 * Browse past kahoots. Some may be suitable for your current cohort as well. Or create new kahoots by getting inspired by old ones.
