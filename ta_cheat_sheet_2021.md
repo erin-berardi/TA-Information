@@ -117,7 +117,7 @@ General administration of students an get several information about them. On the
 ## 4.2 CMS (Studio)
 
 Everything which the students get to see in their Student Portal can be changed here.
-* Our current re-run of the course is this: https://studio.ironhack.school/course/course-v1:IRONHACK+DAFT+202105_BER
+* Our current re-run of the course is this: https://studio.ironhack.school/course/course-v1:IRONHACK+DAFT+202110_RMT
 
 * Sign in with:
   * Email: `ta-dataft-rmt@ironhack.com`
