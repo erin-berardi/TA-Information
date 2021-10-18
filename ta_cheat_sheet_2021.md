@@ -86,7 +86,7 @@ This is the key to a lot of services and online tools (google drive, Asana, kaho
 
 Email received here should be checked regularly. Sometimes students from upcoming courses send questions to this Email address. It is not necessary to answer them right away, but within 24hrs would be nice.
 
-[Class Google Drive][https://drive.google.com/drive/folders/1RMd2HC-GG7aM6lzXoL_IzUH7YHZK05tD?usp=sharing]
+[Class Google Drive][https://drive.google.com/drive/folders/1OHEJecg5DHnI8eP0RUGNDRMy-fzfHZRT]
 
 [Control Panel Spreadsheet][https://docs.google.com/spreadsheets/d/1kSNg5q5jRugHVzl1Dlf42tiwBkSEO2DFZZH7H5kADzE/edit#gid=1573757304]
 
